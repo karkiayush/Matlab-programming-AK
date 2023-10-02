@@ -20,8 +20,8 @@ Usage Instructions:
 
 
 Author:
-**Name**:Aayush Karki
-**Email**:karkiayush619@gmail.com
+**Name**: Aayush Karki
+**Email**: karkiayush619@gmail.com
 
 Contributions:
 Contributions from the community are welcome! If you have improvements or new code to contribute, please fork this repository, make your changes, and submit a pull request.
