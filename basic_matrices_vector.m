@@ -62,6 +62,13 @@ m5(end)%end is the last col of last row
 m6=1:5:1000;
 % m6
 m6(end-10) %index value = last index-10
-m6(end)-10 %output = value at last index -10
+m6(end)-10 %#ok<*NOPTS> %output = value at last index -10
+
+
+
+% Getting entire row 
+m5(2,:) %2nd row
+m5(1,2:end)%1st row's, 1st and 2nd col
+
 
 
