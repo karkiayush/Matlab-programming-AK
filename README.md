@@ -19,9 +19,7 @@ Usage Instructions:
 2. Explore the project folders to find code related to your interests or needs.
 
 
-Author:
-
-**Name:** Aayush Karki
+**Author Name:** Aayush Karki
 **Email:** karkiayush619@gmail.com
 
 
