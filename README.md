@@ -30,4 +30,4 @@ Contributions from the community are welcome! If you have improvements or new co
 Contact:
 For questions, feedback, or collaboration opportunities, please don't hesitate to reach out to karkiayush619@gmail.com.
 
-We hope you find this repository valuable for your MATLAB journey. Happy coding!
+We hope you find this repository valuable for your MATLAB journey. Happy coding! 🧑‍💻
